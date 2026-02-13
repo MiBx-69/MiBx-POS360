@@ -14,25 +14,25 @@ Get a glimpse of our professional interface and powerful features:
 <div align="center">
 
 ### **Dashboard Overview**
-![Dashboard Overview](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/dashboard.png)
+![Dashboard Overview](https://raw.githubusercontent.com/MiBx-69/MiBx-POS360/main/public/screenshots/dashboard.png)
 *Real-time analytics, sales tracking, and low stock alerts at a glance*
 
 ---
 
 ### **Point of Sale Interface**
-![POS Checkout](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/pos-checkout.png)
+![POS Checkout](https://raw.githubusercontent.com/MiBx-69/MiBx-POS360/main/public/screenshots/pos-checkout.png)
 *Lightning-fast checkout with multi-payment support and customer management*
 
 ---
 
 ### **Order Management**
-![Order Management](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/orders.png)
+![Order Management](https://raw.githubusercontent.com/MiBx-69/MiBx-POS360/main/public/screenshots/orders.png)
 *Complete order tracking with status management and comprehensive operations*
 
 ---
 
 ### **System Configuration**
-![System Settings](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/settings.png)
+![System Settings](https://raw.githubusercontent.com/MiBx-69/MiBx-POS360/main/public/screenshots/settings.png)
 *Enterprise-grade configuration with security and customization options*
 
 </div>
