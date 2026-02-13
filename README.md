@@ -4,6 +4,43 @@
 
 MiBx POS is a cutting-edge, **professional-grade Point of Sale system** designed specifically for modern e-commerce businesses. Built with Next.js and powered by PostgreSQL, our system delivers lightning-fast performance, unparalleled security, and features that scale with your business.
 
+
+---
+
+## 📸 See MiBx POS in Action
+
+Get a glimpse of our professional interface and powerful features:
+
+<div align="center">
+
+### **Dashboard Overview**
+![Dashboard Overview](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/dashboard.png)
+*Real-time analytics, sales tracking, and low stock alerts at a glance*
+
+---
+
+### **Point of Sale Interface**
+![POS Checkout](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/pos-checkout.png)
+*Lightning-fast checkout with multi-payment support and customer management*
+
+---
+
+### **Order Management**
+![Order Management](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/orders.png)
+*Complete order tracking with status management and comprehensive operations*
+
+---
+
+### **System Configuration**
+![System Settings](https://raw.githubusercontent.com/MiBx-69/MiBx-Pos-Universes/main/public/screenshots/settings.png)
+*Enterprise-grade configuration with security and customization options*
+
+</div>
+
+> 💡 **Want to See More?**  
+> These screenshots only scratch the surface! **Request a FREE trial version** to explore all features in detail.  
+> 📧 Contact us at **mibxpos@mibrand.agency** or 💬 **[@MIBX-69](https://t.me/MIBX-69)** to get your trial access today!
+
 ---
 
 ## 🎯 Why Choose MiBx POS?
